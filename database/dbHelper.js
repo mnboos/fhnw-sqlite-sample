@@ -1,6 +1,6 @@
 const sqlite = require('sqlite3');
 
-const dbName = "Northwind_large.sqlite";
+const dbName = "./database/sample.db";
 
 module.exports.execute = function(sql, onSucces, onError) {
     var db = new sqlite.Database(dbName);
