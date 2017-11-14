@@ -1,0 +1,23 @@
+{
+  "name": "fhnw-sqlite-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mnboos/fhnw-sqlite-sample.git"
+  },
+  "author": "Martin Boos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnboos/fhnw-sqlite-sample/issues"
+  },
+  "homepage": "https://github.com/mnboos/fhnw-sqlite-sample#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.13"
+  }
+}
