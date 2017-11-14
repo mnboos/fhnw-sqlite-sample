@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mnboos/fhnw-sqlite-sample#readme",
   "dependencies": {
+    "express": "^4.16.2",
     "sqlite3": "^3.1.13"
   }
 }
